@@ -1,0 +1,6 @@
+# we don't commit generated data, only the scripts that generate it
+data/*.csv
+data/*.db
+__pycache__/
+*.pyc
+.venv/
