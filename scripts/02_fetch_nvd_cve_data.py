@@ -48,7 +48,7 @@ for cve_id in CVE_IDS:
     
     time.sleep(6)
 
-with open("data/cve_enrichment.csv", "w", newline="") as f:
+with open("data/cve_enrichment.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=rows[0].keys())
     writer.writeheader()
     writer.writerows(rows)
