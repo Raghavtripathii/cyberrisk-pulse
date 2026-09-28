@@ -15,7 +15,7 @@ closing 78.79% of remediated findings within SLA — below our 90% target
 - 8 findings remain open; 33 have been remediated
 - SLA compliance rate: 78.79% — below the 90% target
 - Riskiest asset: marketing-cms, responsible for 46.5% of total weighted
-  risk across all open findings — more than double the next-highest asset
+  risk across all open findings — nearly double the next-highest asset
 - Most common issue categories: Injection and Cryptographic Failures are
   tied as the most frequent, each appearing in 9 of the 41 findings
 
